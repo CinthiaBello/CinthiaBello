@@ -7,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CinthiaBello&show_icons=true&theme=gruvbox"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CinthiaBello&layout=compact&theme=gruvbox">
 </div>
 
-<h2 align="left">I use these technologies</h2>
+<h2 align="left">Eu uso essas tecnologias</h2>
 <p align="left">
   <div align="left">
     <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">

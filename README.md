@@ -4,7 +4,7 @@
 </p>
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CinthiaBello&show_icons=true&theme=gruvbox"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CinthiaBello&layout=compact&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CinthiaBello&show_icons=true&theme=tokyonight"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CinthiaBello&layout=compact&theme=tokyonight">
 </div>
 
 <h2 align="left">Eu uso essas tecnologias</h2>
